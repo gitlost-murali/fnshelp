@@ -1,6 +1,3 @@
-def convert():
-    print("asdasd")
-
 def get_entities_withtags(tokens, tags):
     """
     Input : 
