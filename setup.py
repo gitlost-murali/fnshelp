@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='fnshelp',
-      version='0.2',
+      version='0.2.1.3',
       description='Repo for most used functions',
       url='http://github.com/gitlost-murali/fnshelp',
       author='Murali Kondragunta',
